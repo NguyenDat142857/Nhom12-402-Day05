@@ -99,7 +99,7 @@ _Lưu ý: Nguy hiểm nhất là khi bệnh nhân không biết AI đang sai mà
 
 **Câu chuyện sản phẩm**
 
-Hiện tại khi đặt lịch Vinmec online, bước đầu tiên bệnh nhân phải tự chọn chuyên khoa. Với người đã biết mình cần khám gì thì không thành vấn đề — nhưng với người lần đầu đến, hoặc đang có triệu chứng lạ chưa từng gặp, đây là một rào cản thực sự. Họ hoặc chọn đại một khoa rồi đến viện bị điều phối lại, hoặc phải gọi tổng đài chờ tư vấn. AI triage lấp đúng khoảng trống này: thay vì bắt bệnh nhân tự đoán, hệ thống hỏi họ vài câu về triệu chứng và tự gợi ý khoa phù hợp.
+Hiện tại khi khách hàng đặt lịch Vinmec online, bước đầu tiên bệnh nhân phải tự chọn chuyên khoa. Với người đã biết mình cần khám gì thì không thành vấn đề — nhưng với người lần đầu đến, hoặc đang có triệu chứng lạ chưa từng gặp, đây là một rào cản thực sự. Họ hoặc chọn đại một khoa rồi đến viện bị điều phối lại, hoặc phải gọi tổng đài chờ tư vấn. AI triage lấp đúng khoảng trống này: thay vì bắt bệnh nhân tự đoán, hệ thống hỏi họ vài câu về triệu chứng và tự gợi ý khoa phù hợp.
 
 Điểm quan trọng là AI ở đây không chẩn đoán bệnh — nó chỉ giúp bệnh nhân bước vào đúng cửa. Quyết định cuối cùng vẫn là của bác sĩ khi tiếp nhận. Và vì AI có thể sai, sản phẩm được thiết kế để bệnh nhân luôn có thể thoát ra và hỏi lễ tân thật bất kỳ lúc nào — không có điểm nào trong flow bị khóa lại.
 
